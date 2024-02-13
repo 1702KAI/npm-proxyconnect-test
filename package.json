@@ -1,0 +1,30 @@
+{
+  "name": "proxyconnect-test",
+  "version": "1.0.0",
+  "description": "This is a simple tool to check if your server is configured to proxy correctly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/1702KAI/npm-proxyconnect-test.git"
+  },
+  "keywords": [
+    "proxy",
+    "testing",
+    "server",
+    "control",
+    "run",
+    "test",
+    "npm",
+    "proxy",
+    "checker"
+  ],
+  "author": "1702KAI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1702KAI/npm-proxyconnect-test/issues"
+  },
+  "homepage": "https://github.com/1702KAI/npm-proxyconnect-test#readme"
+}
